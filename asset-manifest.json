@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fardias-portfolio/static/css/main.dc8f2651.css",
+    "main.js": "/fardias-portfolio/static/js/main.30a19969.js",
+    "static/js/787.633816a4.chunk.js": "/fardias-portfolio/static/js/787.633816a4.chunk.js",
+    "static/media/deku3.jpg": "/fardias-portfolio/static/media/deku3.43948df2a1271025c44b.jpg",
+    "static/media/comming_soon.png": "/fardias-portfolio/static/media/comming_soon.feaae68d12b1051fb728.png",
+    "static/media/dekuColspan2_2.jpg": "/fardias-portfolio/static/media/dekuColspan2_2.232d29598981342a4f6d.jpg",
+    "static/media/pp.jpg": "/fardias-portfolio/static/media/pp.71aeeff29bd0b9e1e64d.jpg",
+    "static/media/deku2.jpg": "/fardias-portfolio/static/media/deku2.ebb2eea031c963abc55a.jpg",
+    "static/media/dekuColSpan2.jpg": "/fardias-portfolio/static/media/dekuColSpan2.240059dd23379ebba2f8.jpg",
+    "static/media/about.jpg": "/fardias-portfolio/static/media/about.a81e99b08044770a81db.jpg",
+    "index.html": "/fardias-portfolio/index.html",
+    "main.dc8f2651.css.map": "/fardias-portfolio/static/css/main.dc8f2651.css.map",
+    "main.30a19969.js.map": "/fardias-portfolio/static/js/main.30a19969.js.map",
+    "787.633816a4.chunk.js.map": "/fardias-portfolio/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc8f2651.css",
+    "static/js/main.30a19969.js"
+  ]
+}
