@@ -4,13 +4,13 @@ import Midoria from "../assets/pp.jpg";
 
 const Hero = () => {
   return (
-    <div className="text-white pb-10 pt-12 mt-14 md:mt-4 relative" id="home">
+    <div className="text-white pb-10 pt-12 mt-14 md:mt-4 relative animate__animated animate__fadeIn animate__delay-1s" id="home">
       <div className="relative">
         <img
           title="untuk sementara pake foto ini dulu (gua jarang foto jir)"
           src={Midoria}
           alt="/"
-          className="rounded-full w-[200px] mx-auto mt-20 border-4 border-[#00df9a] md:w-[300px] md:mt-16"
+          className="rounded-full  w-[200px] mx-auto mt-20 border-4 border-[#00df9a] md:w-[300px] md:mt-16"
         />
         <i
           title="Saya suka main game"
